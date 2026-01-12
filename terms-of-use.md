@@ -18,21 +18,21 @@ You are responsible for:
 - Using the app in compliance with applicable laws and regulations
 
 ## Availability & Compatibility
-TVBuddy is provided on an “as is” basis. We do not guarantee uninterrupted availability or compatibility with all TV models or software versions.
+TVBuddy is provided on an “as is” basis. We do not guarantee uninterrupted availability or compatibility with all devices or software versions.
 
 ## Limitation of Liability
 We are not responsible for:
 - TV or network malfunctions
 - Connectivity interruptions
-- Incompatibility with specific devices
-- Data loss resulting from network conditions
+- Device incompatibility
+- Issues caused by third-party hardware or software
 
 ## Intellectual Property
 All content, design, and software associated with TVBuddy are the property of the developer and may not be copied, modified, or redistributed without permission.
 
 ## Changes to These Terms
-We may update these Terms of Use from time to time. Continued use of the app constitutes acceptance of the updated terms.
+We may update these Terms of Use from time to time. Continued use of the app constitutes acceptance of the updated Terms.
 
 ## Contact
-For questions regarding these Terms of Use, please contact us at:
-tvbuddy.help@gmail.com
+For questions regarding these Terms of Use, please contact:  
+**tvbuddy.help@gmail.com**
